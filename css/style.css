@@ -13,6 +13,19 @@ body{
     background-color: #F6F8FA;
 }
 
+h2{
+    padding: 15px 0;
+    margin-top: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding: 7px 0;
+}
+
 .container{
     width: 70%;
     margin: 0 auto;
@@ -38,7 +51,6 @@ body{
 
 .button{
     padding: 5px;
-    
     border: 1px solid #999;
     border-radius: 10px;
 }
@@ -51,4 +63,55 @@ body{
 .unselected{
     background-color: white;
     color: #999;
+}
+
+.tick{
+    width: 20px;
+    height: 20px;
+    color: green;
+    font-size: 0.8em;
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 50%;
+}
+
+.cross{
+    width: 20px;
+    height: 20px;
+    color: red;
+    font-size: 0.8em;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+
+.label{
+    padding: 6px;
+    border: 1px solid #999;
+    border-radius: 15px;
+    color: white;
+}
+
+.editorial{
+    background-color: #4EA8F5;
+}
+
+.goals{
+    background-color: #9A76E0;
+}
+
+.recruit{
+    background-color: #68C2AA;
+}
+
+.mobile{
+    background-color: #EDA132;
+}
+
+.website{
+    background-color: #DC659D;
+}
+
+.sales{
+    background-color: #AFCA23;
 }
