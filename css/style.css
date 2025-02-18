@@ -11,6 +11,7 @@ header{
 
 body{
     background-color: #F6F8FA;
+    font-family: "MHei PRC Medium";
 }
 
 h2{
@@ -127,3 +128,4 @@ li{
 .sales{
     background-color: #AFCA23;
 }
+
