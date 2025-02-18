@@ -33,8 +33,12 @@ li{
 
 .content{
     background-color: white;
-    padding: 20px 0;
+    padding: 2% 5%;
     margin-top: 30px;
+}
+
+.logo-align{
+    margin-left: 20px;
 }
 
 .w-150{
@@ -50,7 +54,7 @@ li{
 }
 
 .button{
-    padding: 5px;
+    padding: 5px 10px;
     border: 1px solid #999;
     border-radius: 10px;
 }
@@ -73,6 +77,7 @@ li{
     text-align: center;
     border: 1px solid green;
     border-radius: 50%;
+    margin-right: 10px;
 }
 
 .cross{
@@ -82,14 +87,17 @@ li{
     font-size: 0.8em;
     text-align: center;
     border: 1px solid red;
+    margin-right: 10px;
     border-radius: 50%;
 }
 
 .label{
-    padding: 6px;
+    padding: 6px 10px;
     border: 1px solid #999;
     border-radius: 15px;
     color: white;
+    font-size: 0.8em;
+    margin-left: 5px;
 }
 
 .editorial{
