@@ -69,6 +69,10 @@ li{
     color: #999;
 }
 
+.triangle{
+    margin-right: 5px;
+}
+
 .tick{
     width: 20px;
     height: 20px;
