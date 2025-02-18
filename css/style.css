@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -34,4 +34,21 @@ body{
 
 .v-align-middle{
     vertical-align: middle;
+}
+
+.button{
+    padding: 5px;
+    
+    border: 1px solid #999;
+    border-radius: 10px;
+}
+
+.selected{
+    background-color: #4EA8F5;
+    color: white;
+}
+
+.unselected{
+    background-color: white;
+    color: #999;
 }
